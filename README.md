@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M1-sty
-- 👀 I’m interested in learning linux
+- 👀 I’m interested in learning cybersecurity
 - 🌱 I’m currently learning python
 - ♀️ Pronouns: She/Her
 - ⚡ Fun fact: I started programming as a challange for myself
