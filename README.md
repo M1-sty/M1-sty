@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning linux
 - 🌱 I’m currently learning python
 - ♀️ Pronouns: She/Her
-- ⚡ Fun fact: I just started programming as a challange for myself
+- ⚡ Fun fact: I started programming as a challange for myself
 - ✨ Window is still updating :/
 - 💬 Contact me on discord **pew_pew0018**
 
